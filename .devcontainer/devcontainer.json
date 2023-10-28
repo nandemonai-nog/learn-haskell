@@ -1,0 +1,6 @@
+{
+  "name": "Haskell-sandbox-docker",
+  "build": {
+    "dockerfile": "./Dockerfile"
+  }
+}

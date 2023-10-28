@@ -1,0 +1,12 @@
+{
+  "title": "Haskell-sandbox-docker",
+  "description": "Docker environment for Stack, GHC and Cabal",
+  "iconUrl": "./icon.png",
+  "tags": [
+    "docker",
+    "containers",
+    "Haskell",
+    "NANOG"
+  ],
+  "published": false
+}
